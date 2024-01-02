@@ -44,4 +44,6 @@ python 2.7
 Anh Tran 
 
 ## JavaScript API References 
-The creation of the instagram_followers_data_api.js was referenced from https://www.youtube.com/watch?v=sjIBN05k7Ew 
+The creation of the instagram_followers_data_api.js was referenced from https://www.youtube.com/watch?v=sjIBN05k7Ew
+
+## Possible future updates, streamline instagram_followers_data_api.js to download the csv files directly to your working directory (should be a relatively easy fix)
