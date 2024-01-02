@@ -37,6 +37,9 @@ Redo steps 1-4 to extract the following list. In the end, you should have two tx
 ## Important Note
 Ensure that you comply with Instagram's API usage policies and guidelines.
 
+## Usage Concerns
+Untested on an account with a large instagram following/follower count. (Only used on account with max ~600 followers). Concern is if you pull too many requests via the instagram API, your account might be flagged for suspicious behavior/hacking and the account could possibly be suspended. 
+
 ## Requirements
 python 2.7 
 
